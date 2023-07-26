@@ -1,0 +1,14 @@
+{
+  "name": "windowsservices",
+  "version": "1.0.0",
+  "description": "admin services windows",
+  "main": "index.js",
+  "scripts": {
+    "test": "node-windows"
+  },
+  "author": "JoseOrjuela78",
+  "license": "ISC",
+  "dependencies": {
+    "node-windows": "^1.0.0-beta.8"
+  }
+}
